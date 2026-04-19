@@ -1,0 +1,23 @@
+[
+  {
+    "id": "found_1",
+    "keyword": "keys",
+    "description": "A set of keys found near Gate A",
+    "location": "gate_A",
+    "status": "held_by_staff"
+  },
+  {
+    "id": "found_2",
+    "keyword": "wallet",
+    "description": "Black leather wallet found in Main Concourse 2",
+    "location": "concourse_2",
+    "status": "held_by_staff"
+  },
+  {
+    "id": "found_3",
+    "keyword": "cap",
+    "description": "Red baseball cap left at Burger Stand 1",
+    "location": "concourse_1",
+    "status": "held_by_staff"
+  }
+]
